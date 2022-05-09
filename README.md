@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AravindRK99
-- 👀 I’m interested in Python, ML, DL and IoT
-- 🌱 I’m currently done with my engineering. I hope to start my Masters next year.
-- 💞️ I’m looking to collaborate on Python, DL and ML
+- 👀 I’m interested in Python, Computer Vision, ML, DL and the applications of AI in medicine
+- 🌱 I graduated with a bachelors in Telecommunication Engineering in 2021. I am an incoming PhD student in Electrical Engineering at Vanderbilt University for the fall      2022 term where I will be focusing on the applications of AI in medicine.
+- 💞️ I’m looking to collaborate on Computer Vision, DL and ML.
 - 📫 How to reach me: aravind1999@gmail.com
 
 <!---
